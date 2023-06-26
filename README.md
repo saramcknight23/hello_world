@@ -1,2 +1,7 @@
-# hello_world
-Creates a first github repository as part of Python Bootcamp
+# My first and Simple Git Repository
+
+This is my first attempt to create a Git repository on Github.
+The goal here is to learn how to create and maintain a repository. I am interested in (among other things):
+  - Creating a branch
+  - Working on the branch and commiting my changes
+  - Merging the branch to 'main'.
